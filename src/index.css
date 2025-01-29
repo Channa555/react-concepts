@@ -66,3 +66,11 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
+
+ul{
+  list-style-type: none;
+  justify-content: space-between;
+}
+.navigation{
+  display: inline-flex;
+}
